@@ -1,2 +1,2 @@
 # MyCodeArchive
-This repository is to save my practice code
+This repository is to save my practice code in GIT Repository
